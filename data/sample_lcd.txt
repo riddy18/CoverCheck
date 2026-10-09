@@ -1,0 +1,84 @@
+Source: CMS MCD, LCD L34220 - Lumbar MRI, retrieved 2026-10-09
+
+Magnetic Resonance Imaging (MRI) is a noninvasive method of imaging body structures based on the distribution of fixed water and other hydrogen-rich molecules in the human body. MRI uses a powerful magnet to align hydrogen atoms within the patient's soft tissues. As the nuclei return from excitation to equilibrium, the MRI receiver coil receives radio frequency wave signals that are transformed by the computer into diagnostic images. MRI produces cross sectional and 3-D images of soft tissues. Because bone contains little water (hydrogen nuclei), bone is relatively invisible to MRI. Blood is also relatively invisible because the hydrogen nuclei are moving in the blood stream.
+
+MRI contrast agents can improve the sensitivity and/or specificity of an image, by altering inherent tissue response to magnetic fields. The contrast agent most commonly used is gadolinium.
+
+MRI has proven useful in diagnosing cerebral infarctions, tumors, abscesses, edema, hemorrhage, nerve fiber demyelination (as in multiple sclerosis), and other disorders that increase fluid content of the affected tissues.
+
+MRI of the spinal canal has the advantage of noninvasive visualization of the spinal cord.
+
+MRI can:
+
+Differentiate solid from cystic tumors,
+Diagnose and localize spinal cord compression;
+Diagnose syringomyelia (progressive, chronic sensory disturbance, atrophy and spasticity of the spinal cord), disc disease, and any altered relationship between vertebral bodies, discs, spinal cord and nerve roots;
+Detect congenital spinal dysraphism (failure of fusion of parts along the dorsal midline of the spinal cord);
+Provide early detection of osteomyelitis, and
+Detect spinal cord abnormalities associated with osteomyelitis.
+Coverage is limited to MRI units that have received FDA pre-market approval. Such units must be operated within the parameters specified by the approval.
+
+Contrast is indicated for studying the central nervous system for metastatic disease, inflammatory disease, recurrent tumor versus scar, differentiation of microvascular from macrovascular infarction, and selected cases of complex vascular disease. Within the study of the spine, contrast also is indicated to differentiate recurrent disc versus scar or granulation tissue, spinal cord neoplasm, any case of myelopathy, and inflammatory cord disease.
+
+History and clinical findings are critical factors to determine when a lumbar MRI is needed in order to efficiently manage low back pain and related disorders.
+
+Lumbar MRI may be indicated for a patient with a “red-flag” condition , such as a suspected tumor, infection, herniated intervertebral disc with nerve compression, or a major neurological problem. The MRI test result may be needed to evaluate these conditions to determine the need for surgery or other aggressive therapy, such as a work-up for metastatic cancer.
+
+"Red flags" are identified through an appropriate history plus a physical examination that typically includes evaluating muscle strength, limb circumference, reflexes, sensation, straight leg raise, and sitting knee extension tests.
+
+"Red flags" include:
+
+Major trauma
+Minor trauma in a potentially osteoporotic patient
+History of cancer
+Fever
+Chills
+Unexplained weight loss
+Recent bacterial infection
+IV drug abuse
+Immune suppression
+Pain that worsens when supine or at night
+Saddle anesthesia
+Recent onset of bladder dysfunction
+Clinically significant or progressive neurologic deficit in the lower extremity
+Unexpected laxity of the anal sphincter
+Perianal or perineal sensory loss,
+Clinically significant motor weakness, or 
+Other nerve root compromise
+
+Eighty (80) to ninety (90) percent of patients with low back pain improve one month after symptom onset even without treatment. Therefore, spinal imaging tests are not generally necessary during the first month of symptoms except when a "red flag" (suggesting a medically emergent condition) is noted on the medical history and physical examination. For a "non-red flag" condition, the MRI may be appropriate after 1 month of symptoms.
+
+For example, for a patient with low back pain syndrome where there is no known injury, history of cancer, or septic disorder and there are no symptoms or signs suggesting nerve root disorder or spinal cord dysfunction (i.e. no "red flags"), MRI will be covered only if the patient has not responded to a reasonable trial of conservative management lasting at least four weeks.
+
+If a patient's limitations due to low back symptoms do not improve within four weeks, findings on reassessment may reveal an indication for a MRI. However, since MRI changes are common in asymptomatic patients, MRI abnormalities alone do not retrospectively validate the need for the test without other supporting clinical rationale.
+
+A lumbar MRI used to evaluate uncomplicated degenerative disc disease or herniated nucleus pulposus is not considered medically necessary when a surgical intervention or other aggressive treatment (e.g. intervertebral joint injection) is not under consideration.
+
+When a lumbar MRI is ordered, Medicare expects that the information gained from the test will be used for medical decision-making. When the findings will not affect the treatment choices, the test is not reasonable or necessary.
+
+Certain uses of lumbar MRI are considered investigational and are therefore not covered by Medicare. These include the measurement of blood flow, spectroscopy, imaging of cortical bone and calcifications, and for procedures involving spatial resolution of bone or calcifications.
+
+A lumbar MRI that is a duplication of other imaging studies (such as a spinal CT scan) may be unreasonable or unnecessary. A lumbar MRI, however, could be complementary to a lumbar CT if there are inconclusive findings on a CT scan.  Conversely, a lumbar CT may be warranted following an MRI study if the MRI study is found to be inconclusive.  Documentation should support the medical necessity for the need for both studies.
+
+The payment for a single lumbar MRI procedure includes two (2) and three (3) sequences.
+
+Contraindications and limitations of lumbar MRI testing include:
+
+Patients with an allergy to contrast media,
+The effects upon a fetus are unknown at this time; therefore, pregnancy is to be handled at the discretion of the primary doctor,
+When the technical component is performed without the professional component.
+Payment for more than one professional component (PC) of a single lumbar MRI:
+
+Medicare will not pay twice for service that is required only once to diagnose or treat an illness or injury. Typically, this A/B MAC will pay for only one PC. This A/B MAC may pay for a second PC when the additional physician's expertise is necessary and reasonable to diagnose or treat the patient, such as to clarify a questionable finding. The physician performing the initial PC must have a valid reason to require another physician's expertise, such as to interpret a confusing MRI. The second physician's knowledge and expertise must be significantly greater than that of the first reader, and it must contribute substantially to the interpretation.
+
+Multiple PCs of a single MRI in institutional settings:
+
+In hospital settings, the physicians involved with MRI interpretations should reach an agreement among themselves as to who should bill Medicare for MRI interpretations and reports. If the physicians involved cannot resolve these issues among themselves, this A/B MAC will pay for the interpretation and report that directly contributes to the diagnosis and treatment of the individual patient. Typically, this will be the MRI interpretation and report that is performed simultaneously with the evaluation and management of the patient.
+
+Each payable interpretation must include a complete, written report similar to one that is prepared by a specialist in the field. The content of the written report must address the relevant clinical issues, available comparative data, and test findings. The format of the report must be separately identifiable. It may be included under a separate heading within the clinical record.
+
+Multi-position MRI (reclining, standing)
+
+Medicare does not provide additional payment for multiple MRI’s such as in the reclining and upright positions. Bill for one unit of the MRI service.
+
+Summary of Evidence

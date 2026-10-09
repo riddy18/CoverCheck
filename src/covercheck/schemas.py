@@ -5,7 +5,9 @@ from pydantic import BaseModel
 
 class Criterion(BaseModel):
     description: str
-    category: Literal["diagnosis", "prior_treatment", "duration", "documentation", "other"]
+    category: Literal[
+        "diagnosis", "prior_treatment", "duration", "documentation", "other"
+    ]
     source_quote: str
 
 

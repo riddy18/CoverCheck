@@ -1,31 +1,37 @@
+import os
 import sys
 from pathlib import Path
 
-from anthropic import Anthropic
 from dotenv import load_dotenv
+from google import genai
+from google.genai import types
 
 from covercheck.schemas import PolicyExtraction
 
-MODEL = "claude-sonnet-5-5"
+MODEL = os.environ.get("COVERCHECK_MODEL", "gemini-3.8-flash")
 
 PROMPT = """You extract coverage criteria from Medicare coverage policies.
 Use only what the policy text states. For each criterion, include a short
-verbatim quote from the policy that supports it.
+verbatim quote from the policy that supports it. Copy quotes exactly,
+character for character; do not paraphrase or merge sentences.
 
 <policy>
 {text}
 </policy>"""
 
 
-def extract(text: str, client: Anthropic | None = None) -> PolicyExtraction:
-    client = client or Anthropic()
-    response = client.messages.parse(
+def extract(text: str, client: genai.Client | None = None) -> PolicyExtraction:
+    client = client or genai.Client()
+    response = client.models.generate_content(
         model=MODEL,
-        max_tokens=4096,
-        messages=[{"role": "user", "content": PROMPT.format(text=text)}],
-        output_format=PolicyExtraction,
+        contents=PROMPT.format(text=text),
+        config=types.GenerateContentConfig(
+            temperature=0,
+            response_mime_type="application/json",
+            response_schema=PolicyExtraction,
+        ),
     )
-    return response.parsed_output
+    return PolicyExtraction.model_validate_json(response.text)
 
 
 def main() -> None:
