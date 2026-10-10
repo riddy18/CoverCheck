@@ -1,0 +1,54 @@
+{
+  "policy_title": "LCD L34220 - Lumbar MRI",
+  "covered_services": [
+    "Lumbar MRI",
+    "MRI of the spinal canal",
+    "MRI with contrast"
+  ],
+  "criteria": [
+    {
+      "description": "MRI units must have received FDA pre-market approval and operate within approved parameters.",
+      "category": "other",
+      "source_quote": "Coverage is limited to MRI units that have received FDA pre-market approval."
+    },
+    {
+      "description": "Lumbar MRI may be indicated for patients with a red-flag condition.",
+      "category": "diagnosis",
+      "source_quote": "Lumbar MRI may be indicated for a patient with a “red-flag” condition , such as a suspected tumor, infection, herniated intervertebral disc with nerve compression, or a major neurological problem."
+    },
+    {
+      "description": "For non-red flag conditions, MRI may be appropriate after one month of symptoms.",
+      "category": "duration",
+      "source_quote": "For a \"non-red flag\" condition, the MRI may be appropriate after 1 month of symptoms."
+    },
+    {
+      "description": "For non-red flag low back pain syndrome, patients must undergo and fail a trial of conservative management lasting at least four weeks.",
+      "category": "prior_treatment",
+      "source_quote": "MRI will be covered only if the patient has not responded to a reasonable trial of conservative management lasting at least four weeks."
+    },
+    {
+      "description": "The information gained from the test must be expected to be used for medical decision-making and affect treatment choices.",
+      "category": "other",
+      "source_quote": "When a lumbar MRI is ordered, Medicare expects that the information gained from the test will be used for medical decision-making."
+    },
+    {
+      "description": "If duplicating or complementing other imaging studies like a CT scan, documentation must support medical necessity for both studies.",
+      "category": "documentation",
+      "source_quote": "Documentation should support the medical necessity for the need for both studies."
+    },
+    {
+      "description": "Each payable interpretation must include a complete, separately identifiable written report addressing relevant clinical issues, comparative data, and test findings.",
+      "category": "documentation",
+      "source_quote": "Each payable interpretation must include a complete, written report similar to one that is prepared by a specialist in the field."
+    }
+  ],
+  "exclusions": [
+    "A lumbar MRI used to evaluate uncomplicated degenerative disc disease or herniated nucleus pulposus when a surgical intervention or other aggressive treatment (e.g. intervertebral joint injection) is not under consideration",
+    "When the findings will not affect the treatment choices",
+    "Investigational uses including measurement of blood flow, spectroscopy, imaging of cortical bone and calcifications, and procedures involving spatial resolution of bone or calcifications",
+    "A lumbar MRI that is an unnecessary duplication of other imaging studies (such as a spinal CT scan)",
+    "Patients with an allergy to contrast media",
+    "When the technical component is performed without the professional component",
+    "Additional payment for multiple MRI’s such as in the reclining and upright positions (multi-position MRI)"
+  ]
+}
