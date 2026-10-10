@@ -12,6 +12,30 @@ Given a patient case, a requested service, and a payer, CoverCheck finds the gov
 
 The first stage, criteria extraction, works today. It takes the coverage section of a Medicare LCD and returns structured criteria, each backed by a verbatim quote from the policy. On the included Lumbar MRI sample (LCD L34220), every extracted quote matches the source text exactly. Policy retrieval, patient-case matching, and the API come next.
 
+## Example output
+
+Running the extractor on the Lumbar MRI LCD (L34220) returns structured criteria, each paired with the exact policy text it came from. On this sample, every `source_quote` matches the LCD text exactly.
+
+```json
+{
+  "policy_title": "LCD L34220 - Lumbar MRI",
+  "criteria": [
+    {
+      "description": "Lumbar MRI may be indicated for patients with a red-flag condition.",
+      "category": "diagnosis",
+      "source_quote": "Lumbar MRI may be indicated for a patient with a “red-flag” condition , such as a suspected tumor, infection, herniated intervertebral disc with nerve compression, or a major neurological problem."
+    },
+    {
+      "description": "For non-red flag conditions, MRI may be appropriate after one month of symptoms.",
+      "category": "duration",
+      "source_quote": "For a \"non-red flag\" condition, the MRI may be appropriate after 1 month of symptoms."
+    }
+  ]
+}
+```
+
+Full output: [`examples/lumbar_mri_L34220.json`](examples/lumbar_mri_L34220.json)
+
 ## Quickstart
 
 Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
